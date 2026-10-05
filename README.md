@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-This is my personal portfolio website created as part of the Future Interns Full Stack Web Development Internship.
+This is my personal portfolio website created as  Full Stack Web Development Internship.
 
 ## 🔹 Features
 - About Me section
@@ -13,7 +13,6 @@ This is my personal portfolio website created as part of the Future Interns Full
 - CSS
 
 ## 🔹 Live Website
-https://divyagulabnarwade.github.io/FUTURE_FS_01/
-
+https://divyagulabnarwade.github.io/Portfolio/
 ## 🔹 Author
 Divya
